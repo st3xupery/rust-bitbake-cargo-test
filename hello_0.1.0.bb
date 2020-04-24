@@ -27,7 +27,8 @@ LIC_FILES_CHKSUM = " \
 
 SUMMARY = "Simple Hello"
 HOMEPAGE = "http://example.com"
-LICENSE = "MIT OR Apache-2.0"
+LICENSE = "Apache-2.0"
+LIC_FILES_CHKSUM = ""
 
 # includes this file if it exists but does not fail
 # this is useful for anything you may want to override from
